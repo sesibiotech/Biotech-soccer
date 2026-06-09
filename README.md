@@ -1,24 +1,119 @@
-# 💫 About Me:
-Arduino<br>Sensores Infravermelhos (IR)<br>Sensores Ultrassônicos<br>Motores DC<br>Ponte H<br>Linguagem C/C++<br>Impressão 3D<br>Eletrônica Embarcada
+# ⚽🤖 BIOTECH SOCCER
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sesibiotech) 
+### 🚀 Desenvolvendo robôs autônomos para dominar o campo
 
-# 💻 Tech Stack:
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=BIOTECH SOCCER&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=BIOTECH SOCCER&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=BIOTECH SOCCER&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+*"Tecnologia, estratégia e inovação em cada partida."*
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BIOTECH SOCCER&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=BIOTECH SOCCER&icon=0&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 Sobre Nós
+
+A **BIOTECH SOCCER** é uma equipe dedicada ao desenvolvimento de robôs autônomos para competições de Futebol de Robôs.
+
+Projetamos, construímos e programamos nossos próprios robôs, combinando eletrônica, programação, mecânica e estratégia para criar sistemas capazes de tomar decisões em tempo real dentro do campo.
+
+🏆 Participação em competições de robótica
+
+🤖 Desenvolvimento de robôs atacantes e goleiros
+
+⚡ Otimização de algoritmos de navegação e posicionamento
+
+🛠️ Projeto mecânico e eletrônico próprio
+
+📚 Aprendizado contínuo em tecnologia e inovação
+
+---
+
+# 🌐 Redes Sociais
+
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-BIOTECH_SOCCER-181717?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=arduino,cpp,github,vscode" />
+
+</p>
+
+### 🔧 Hardware
+
+* Arduino
+* Sensores Infravermelhos (IR)
+* Sensores Ultrassônicos
+* Motores DC
+* Ponte H
+* Drivers de Motor
+* Baterias Li-Po
+* Impressão 3D
+* Eletrônica Embarcada
+
+---
+
+# ⚽ O Que Nossos Robôs Fazem
+
+✅ Localizam a bola automaticamente
+
+✅ Desviam de adversários
+
+✅ Alinham-se ao gol
+
+✅ Tomam decisões em tempo real
+
+✅ Executam estratégias de ataque e defesa
+
+✅ Trabalham em equipe durante a partida
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&theme=tokyonight&show_icons=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" height="170"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 Conquistas
+
+🥇 Desenvolvimento de robôs autônomos competitivos
+
+🥈 Participação em torneios e eventos de robótica
+
+🥉 Evolução contínua em programação, eletrônica e mecânica
+
+---
+
+# 📈 Objetivo
+
+Nossa missão é utilizar a robótica como ferramenta de aprendizado, inovação e trabalho em equipe, criando robôs cada vez mais inteligentes e competitivos.
+
+---
+
+<div align="center">
+
+### ⚽🤖 BIOTECH SOCCER
+
+**Transformando código em estratégia e estratégia em gols.**
+
+</div>
