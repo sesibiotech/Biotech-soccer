@@ -1,119 +1,106 @@
-# ⚽🤖 BIOTECH SOCCER
+# ⚽ BIOTECH SOCCER
 
 <div align="center">
 
-### 🚀 Desenvolvendo robôs autônomos para dominar o campo
+### Robótica, estratégia e paixão pelo futebol.
 
-*"Tecnologia, estratégia e inovação em cada partida."*
+Construindo robôs cada vez mais rápidos, inteligentes e competitivos.
 
 </div>
 
 ---
 
-# 💫 Sobre Nós
+## 🚀 Quem Somos
 
-A **BIOTECH SOCCER** é uma equipe dedicada ao desenvolvimento de robôs autônomos para competições de Futebol de Robôs.
+A **BIOTECH SOCCER** é uma equipe de Futebol de Robôs formada por estudantes apaixonados por tecnologia e desafios.
 
-Projetamos, construímos e programamos nossos próprios robôs, combinando eletrônica, programação, mecânica e estratégia para criar sistemas capazes de tomar decisões em tempo real dentro do campo.
+Nosso trabalho vai muito além de montar robôs. Desenvolvemos soluções completas envolvendo programação, eletrônica, mecânica e estratégia para que nossos robôs consigam interpretar o jogo e tomar decisões de forma totalmente autônoma.
 
-🏆 Participação em competições de robótica
-
-🤖 Desenvolvimento de robôs atacantes e goleiros
-
-⚡ Otimização de algoritmos de navegação e posicionamento
-
-🛠️ Projeto mecânico e eletrônico próprio
-
-📚 Aprendizado contínuo em tecnologia e inovação
+Cada competição é uma oportunidade de aprender, testar novas ideias e evoluir como equipe.
 
 ---
 
-# 🌐 Redes Sociais
+## ⚙️ O Que Desenvolvemos
 
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-BIOTECH_SOCCER-181717?style=for-the-badge&logo=github"></a>
-</p>
+* 🤖 Robôs atacantes e goleiros autônomos
+* 📡 Sistemas de localização da bola por infravermelho
+* 📏 Navegação utilizando sensores ultrassônicos
+* 🎯 Algoritmos de posicionamento e alinhamento
+* ⚡ Estratégias de ataque e defesa em tempo real
+* 🔧 Estruturas mecânicas projetadas pela equipe
+* 💻 Softwares embarcados para controle dos robôs
 
 ---
 
-# 💻 Tech Stack
+## 🛠️ Tecnologias
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=arduino,cpp,github,vscode" />
-
+<img src="https://skillicons.dev/icons?i=arduino,cpp,git,github,vscode" />
 </p>
 
-### 🔧 Hardware
+### Hardware
 
 * Arduino
 * Sensores Infravermelhos (IR)
 * Sensores Ultrassônicos
 * Motores DC
 * Ponte H
-* Drivers de Motor
 * Baterias Li-Po
 * Impressão 3D
-* Eletrônica Embarcada
+* Componentes eletrônicos diversos
 
 ---
 
-# ⚽ O Que Nossos Robôs Fazem
+## 🏆 Nossa Filosofia
 
-✅ Localizam a bola automaticamente
+Acreditamos que a melhor forma de aprender é construir.
 
-✅ Desviam de adversários
+Por isso buscamos constantemente melhorar nossos projetos, testar novas estratégias e enfrentar desafios que nos façam crescer como programadores, projetistas e competidores.
 
-✅ Alinham-se ao gol
-
-✅ Tomam decisões em tempo real
-
-✅ Executam estratégias de ataque e defesa
-
-✅ Trabalham em equipe durante a partida
+Cada linha de código, cada solda e cada partida representam horas de estudo, dedicação e trabalho em equipe.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 Estatísticas
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&theme=tokyonight&show_icons=true" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" height="170"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-# 🏆 Conquistas
-
-🥇 Desenvolvimento de robôs autônomos competitivos
-
-🥈 Participação em torneios e eventos de robótica
-
-🥉 Evolução contínua em programação, eletrônica e mecânica
+</div>
 
 ---
 
-# 📈 Objetivo
+## 📸 Atualmente
 
-Nossa missão é utilizar a robótica como ferramenta de aprendizado, inovação e trabalho em equipe, criando robôs cada vez mais inteligentes e competitivos.
+🔹 Aprimorando a tomada de decisão dos robôs
+
+🔹 Desenvolvendo novas estratégias para partidas competitivas
+
+🔹 Otimizando sistemas de ataque e defesa
+
+🔹 Testando melhorias de hardware e desempenho
+
+---
+
+## 📬 Contato
+
+Caso queira acompanhar nossos projetos, trocar experiências ou contribuir com ideias, fique à vontade para entrar em contato.
 
 ---
 
 <div align="center">
 
-### ⚽🤖 BIOTECH SOCCER
+### "Não construímos apenas robôs. Construímos conhecimento."
 
-**Transformando código em estratégia e estratégia em gols.**
+⚽ 🤖
 
 </div>
