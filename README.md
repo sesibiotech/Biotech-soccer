@@ -10,7 +10,7 @@
 
 **Construindo robôs cada vez mais rápidos, inteligentes e competitivos.**
 
-<img src="imagens/equipe.jpg" alt="Equipe BIOTECH SOCCER" width="900">
+<img src="imagens/equipe.jpeg" alt="Equipe BIOTECH SOCCER" width="900">
 
 *Equipe BIOTECH SOCCER*
 
@@ -97,7 +97,7 @@ Responsável por localizar a bola, avançar ao ataque e finalizar com precisão.
 
 <br>
 
-<img src="imagens/robo-goleiro.jpg" width="400">
+<img src="imagens/IMG_4266.JPG" width="400">
 
 ### 🥅 Robô Goleiro
 
