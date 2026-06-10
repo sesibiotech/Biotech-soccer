@@ -89,7 +89,7 @@ Criação de comportamentos inteligentes para ataque, defesa e posicionamento du
 
 <div align="center">
 
-<img src="imagens/robo-atacante.jpg" width="400">
+<img src="imagens/IMG_4265.JPG" width="400">
 
 ### ⚽ Robô Atacante
 
